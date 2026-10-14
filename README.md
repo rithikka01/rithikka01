@@ -10,7 +10,7 @@ I'm passionate about building real-world applications and exploring Artificial I
 
 ## 🌐 Connect With Me
 
-🔗 **Portfolio:** [Visit My Portfolio](https://retro-rpg-profile.lovable.app)
+🔗 **Portfolio:** [Visit My Portfolio]([https://retro-rpg-profile.lovable.app](https://portfolio-git-master-rithikka01s-projects.vercel.app/))
 
 💼 **LinkedIn:** [Rithikka](https://www.linkedin.com/in/rithikka-n-7018a257/)
 
