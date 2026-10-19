@@ -14,6 +14,8 @@ I'm passionate about building real-world applications and exploring Artificial I
 
 💼 **LinkedIn:** [Rithikka](https://www.linkedin.com/in/rithikka-n-7018a257/)
 
+👩‍💻 **resume:** https://drive.google.com/file/d/1qqTE3kSoNhBUvK8odF6w4R5VDk-pP2Uy/view?usp=sharing
+
 ## 📫 Let's Connect!
 
 I love building things from scratch—starting with an idea, learning what I need along the way, experimenting, and turning it into something real. 
