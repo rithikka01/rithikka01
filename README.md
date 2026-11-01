@@ -22,22 +22,6 @@ I enjoy building intelligent applications, solving engineering problems, and tra
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rithikka01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithikka01&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ## 🌍 Open-Source Journey
 
 - **GirlScript Summer of Code 2025** – Selected Contributor
